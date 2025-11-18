@@ -101,3 +101,6 @@ WITH 50
   WHERE E1.MGR = E2.EMPNO 
   AND E2.SAL LIKE '%50' ;
 
+
+
+
