@@ -1,4 +1,5 @@
 # 🗄️ SQL Queries Repository
+---
 
 Welcome to my **SQL Queries Repository** 🚀  
 This repository contains a collection of **SQL queries** written for practice, learning, and real-world database scenarios.
