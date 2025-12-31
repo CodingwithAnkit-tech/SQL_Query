@@ -17,7 +17,6 @@ This repository is created to:
 - Cover important SQL concepts with **clear, practical examples**
 - Support **beginners and learners** in understanding SQL effectively
 
----
 
 ## 📚 Topics Covered
 
