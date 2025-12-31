@@ -5,7 +5,6 @@
 Welcome to my **SQL Queries Repository** 🚀  
 This repository is a well-organized collection of **SQL queries** designed for practice, learning, and solving real-world database problems.
 
----
 
 ## 📌 About This Repository
 
